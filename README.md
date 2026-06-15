@@ -81,8 +81,6 @@ Duration: 2-3 minutes
 
 ## Author
 
-[Your Name] - Upwork Talent Accelerator Project
+Akshay Sharma
 
-## License
 
-MIT (or no license - your choice)
